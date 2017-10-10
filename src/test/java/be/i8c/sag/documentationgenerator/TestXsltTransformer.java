@@ -54,4 +54,3 @@ public class TestXsltTransformer {
         ));
     }
 }
-//dit is een test
